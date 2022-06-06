@@ -185,3 +185,4 @@ FakesAssemblies/
 *.v1
 *.config
 /EmployeeEx/BenchmarkDotNet.Artifacts/results
+/.vs
